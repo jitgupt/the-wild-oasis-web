@@ -26,7 +26,7 @@ function ReservationCard({ booking, onDelete }) {
   return (
     <div className="flex border border-primary-800">
       <div className="relative h-32 aspect-square">
-        <Image
+        <img
           src={image}
           alt={`Cabin ${name}`}
           fill

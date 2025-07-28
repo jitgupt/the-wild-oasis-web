@@ -5,6 +5,9 @@ const nextConfig = {
       new URL(
         "https://rktnjbvficgdnazuqqok.supabase.co/storage/v1/object/public/cabin-images/*"
       ),
+      new URL(
+        "https://rktnjbvficgdnazuqqok.supabase.co/storage/v1/object/public/cabin-images/*"
+      ),
     ],
   },
   // output: "export",
